@@ -1,0 +1,802 @@
+[
+  {
+    "labels": {
+      "instance": "instance-0"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-1"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-2"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-3"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-4"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-5"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-6"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-7"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-8"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-9"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-10"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-11"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-12"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-13"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-14"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-15"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-16"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-17"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-18"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-19"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-20"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-21"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-22"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-23"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-24"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-25"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-26"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-27"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-28"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-29"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-30"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-31"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-32"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-33"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-34"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-35"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-36"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-37"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-38"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-39"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-40"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-41"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-42"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-43"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-44"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-45"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-46"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-47"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-48"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-49"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-50"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-51"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-52"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-53"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-54"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-55"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-56"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-57"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-58"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-59"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-60"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-61"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-62"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-63"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-64"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-65"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-66"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-67"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-68"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-69"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-70"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-71"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-72"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-73"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-74"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-75"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-76"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-77"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-78"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-79"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-80"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-81"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-82"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-83"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-84"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-85"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-86"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-87"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-88"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-89"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-90"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-91"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-92"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-93"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-94"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-95"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-96"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-97"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-98"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  },
+  {
+    "labels": {
+      "instance": "instance-99"
+    },
+    "targets": [
+      "avalanche:9001"
+    ]
+  }
+]

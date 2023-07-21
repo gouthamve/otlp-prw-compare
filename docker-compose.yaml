@@ -1,0 +1,41 @@
+version: "3.7"
+services:
+  monitoring-prometheus:
+    image: prom/prometheus:v2.45.0
+    restart: always
+    volumes:
+      - ./monitoring-prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
+    ports:
+      - "9090"
+
+  data-counter:
+    image: gouthamve/data-counter:v0.0.1
+    restart: always
+    ports:
+      - "8090"
+
+  otelcol:
+    image: otel/opentelemetry-collector:0.81.0
+    restart: always
+    command: ["--config=/etc/config.yaml"]
+    volumes:
+      - ./otelcol/config.yaml:/etc/config.yaml
+      - ./otelcol/targets.json:/targets.json
+    ports:
+      - "8888"   # Prometheus metrics exposed by the collector
+
+  prometheus:
+    image: prom/prometheus:v2.45.0
+    restart: always
+    volumes:
+      - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
+      - ./prometheus/targets.json:/etc/prometheus/targets.json
+    ports:
+      - "9090"
+
+  avalanche:
+    image: prometheuscommunity/avalanche:main
+    restart: always
+    command: ["--metric-count=1000"]
+    ports:
+      - "9001"

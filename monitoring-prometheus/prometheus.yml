@@ -1,0 +1,6 @@
+scrape_configs:
+- job_name: 'data-counter'
+  scrape_interval: 5s
+  static_configs:
+  - targets:
+    - data-counter:8090
